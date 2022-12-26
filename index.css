@@ -18,9 +18,6 @@ body{
     width: 100%;
     padding: 10px 0 30px 0;
     border-bottom: 2px solid #ffffff;
-    position: fixed;
-    left: 0;
-    right: 0;
 }
 
 .navcontain .logo{
@@ -70,9 +67,6 @@ body{
         width: 100%;
         padding: 10px 0 30px 0;
         border-bottom: 2px solid #ffffff;
-        position: static;
-        left: 0;
-        right: 0;
     }
     
     .navcontain .logo{
